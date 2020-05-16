@@ -1,6 +1,6 @@
-# Brafé
+# Brafé 1
 
-Simple Coffee Store using Flexbox CSS.
+Simple pure HTML/CSS static page of a coffe store using Flexbox CSS.
 
 ![Brafe-1-flexbox](https://user-images.githubusercontent.com/52302576/82130566-dd35ad00-97a2-11ea-8c72-99abe8cee88a.png)
 
@@ -17,7 +17,6 @@ Open index.html
 
 * HTML
 * CSS
-* JS
 
 ## Authors
 
