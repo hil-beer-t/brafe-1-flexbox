@@ -1,4 +1,4 @@
-# Brafé 1
+# [Brafé 1](https://hil-beer-t.github.io/brafe-1-flexbox/)
 
 Simple pure HTML/CSS static page of a coffe store using Flexbox CSS.
 
